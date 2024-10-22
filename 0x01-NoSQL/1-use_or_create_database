@@ -1,0 +1,2 @@
+// Creat or uses MongoDB my_db.
+use my_db;
